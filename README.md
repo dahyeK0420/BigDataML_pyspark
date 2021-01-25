@@ -5,7 +5,11 @@ This program uses Pyspark to process big data and performs binary target predict
 
 * **Pedestrian_Counting_System_-_Sensor_Locations.csv**: The dataset with information regarding each sensor, including the geographical coordinates, names and direction of the sensors. 
 
-* **PySpark_BigData_ML_BinaryTargetWithDT_GBT.ipynb**: Jupyter notebook processing and training big data. The notebook includes the following sections for building and training models: 
+* **PySpark_BigData_ML_BinaryTargetWithDT_GBT.ipynb**: Jupyter notebook processing and training big data. 
+  * Please reload the notebook for preview! 
+  * If the notebook cannot be previewed, please download the notebook or view the HTML file for the codes. 
+
+The notebook includes the following sections for building and training models: 
 
   1. **Loading Data with Pre-defined Schema**
   2. **Exploratory Data Analaysis** - exploring individual features, including statiscal characteristics, correlations of each and every numerical feature, as well as the distribution of numerical variables 
