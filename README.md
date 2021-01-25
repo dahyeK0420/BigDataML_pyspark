@@ -1,7 +1,7 @@
 # Building Models to Predict Pedestrian Traffic Threshold
 This program uses Pyspark to process big data and performs binary target prediction using Decision Tree and Gradient Boost Tree Algorithms from MLlib.
 
-* **Pedestrian_Counting_System_-_Monthly__counts_per_hour.csv**:
+* **Pedestrian_Counting_System_-_Monthly__counts_per_hour.csv**: https://drive.google.com/file/d/12PE127tr-OeKY487gjXOYSnMesHDOAxl/view?usp=sharing
 
 * **Pedestrian_Counting_System_-_Sensor_Locations.csv**: The dataset with information regarding each sensor, including the geographical coordinates, names and direction of the sensors. 
 
