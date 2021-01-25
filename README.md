@@ -1,7 +1,7 @@
 # Building Models to Predict Pedestrian Traffic Threshold
 This program uses Pyspark to process big data and performs binary target prediction using Decision Tree and Gradient Boost Tree Algorithms from MLlib.
 
-* **Pedestrian_Counting_System_-_Monthly__counts_per_hour.csv**: The dataset with information regarding hourly pedestrian count detected by sensors in Melbourne City. The dataset in the Github is decreased in size to 100Mb for running the code. The actual file size is 292MB. 
+* **Pedestrian_Counting_System_-_Monthly__counts_per_hour.csv**:
 
 * **Pedestrian_Counting_System_-_Sensor_Locations.csv**: The dataset with information regarding each sensor, including the geographical coordinates, names and direction of the sensors. 
 
